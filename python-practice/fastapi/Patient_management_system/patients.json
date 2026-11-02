@@ -1,0 +1,92 @@
+{
+  "P001": {
+    "name": "Nakul",
+    "dob": {
+      "date": 10,
+      "month": 12,
+      "year": 2004
+    },
+    "address": {
+      "city": "Bulandshahr",
+      "state": "UP"
+    },
+    "gender": "Male",
+    "height": 1.75,
+    "weight": 80.0,
+    "age": 21,
+    "bmi": 26.122448979591837,
+    "verdict": "Overweight"
+  },
+  "P002": {
+    "name": "Uday Raghav",
+    "dob": {
+      "date": 21,
+      "month": 7,
+      "year": 2005
+    },
+    "address": {
+      "city": "Meerut",
+      "state": "Uttar pradesh"
+    },
+    "gender": "Male",
+    "height": 1.9,
+    "weight": 70.0,
+    "age": 21,
+    "bmi": 19.390581717451525,
+    "verdict": "Normal"
+  },
+  "P003": {
+    "name": "Lalit pratap singh",
+    "dob": {
+      "date": 7,
+      "month": 9,
+      "year": 2005
+    },
+    "address": {
+      "city": "Etawah",
+      "state": "Uttar pradesh"
+    },
+    "gender": "Male",
+    "height": 1.85,
+    "weight": 70.0,
+    "age": 21,
+    "bmi": 20.45288531775018,
+    "verdict": "Normal"
+  },
+  "P004": {
+    "name": "Karishma Raghav",
+    "dob": {
+      "date": 20,
+      "month": 11,
+      "year": 2006
+    },
+    "address": {
+      "city": "Kurena",
+      "state": "Uttar pradesh"
+    },
+    "gender": "Female",
+    "height": 1.6,
+    "weight": 60.0,
+    "age": 19,
+    "bmi": 23.437499999999996,
+    "verdict": "Normal"
+  },
+  "P005": {
+    "name": "Pardeep kumar sharma",
+    "dob": {
+      "date": 1,
+      "month": 1,
+      "year": 2005
+    },
+    "address": {
+      "city": "Khanpur",
+      "state": "Uttar pradesh"
+    },
+    "gender": "Male",
+    "height": 1.8,
+    "weight": 60.0,
+    "age": 21,
+    "bmi": 18.51851851851852,
+    "verdict": "Normal"
+  }
+}
